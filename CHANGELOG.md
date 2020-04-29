@@ -1,4 +1,10 @@
 :warning: = breaking change
+## 2.2.0
+#### 2020-apr-29
+* Update to spritezero 7.0.0
+* Update to multiline 2.0.0
+* Update to tap 14.10.7
+* Update to eslint 6.8.0
 
 ## 2.1.0
 ##### 2017-jun-17
